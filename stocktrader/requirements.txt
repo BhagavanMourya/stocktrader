@@ -1,0 +1,7 @@
+Django>=4.0
+pandas
+numpy
+matplotlib
+yfinance
+django-rest-framework
+django-cors-headers
